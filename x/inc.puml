@@ -1,0 +1,13 @@
+@startuml
+
+!$error="<color:firebrick>error</color>"
+
+!procedure $func($name)
+class $name <<(F, LightGreen) Function >>
+!endprocedure
+
+
+
+
+
+@enduml
